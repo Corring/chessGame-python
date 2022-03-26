@@ -1,4 +1,5 @@
 # chessGame-python
+A simple chess game with following rules:
 ● Player 1 moves first. 
 ● Pawns can move forward, right and left one space to an empty location, or diagonally one space to capture an opponent’s pawn at that location. 
 ● A pawn must capture an opponent’s pawn if a capturing move is available. 
